@@ -16,5 +16,5 @@ Images de ma signature Gmail, servies par GitHub Pages : https://leo-var1.github
 - `picto-*.png` : pictos du téléphone, de LinkedIn et du site.
 - `index.html` : la signature, à copier-coller dans Gmail.
 
-Les sources (gabarits HTML et script de capture) sont dans le dépôt job-search, `build/signature/`.
+Les sources (gabarits HTML et script de capture) sont sur le PC, dans `C:DEV-Codejob-searchbuildsignature` (dossier non versionné).
 Plus tard, ces images passeront sur leovarain.fr.
