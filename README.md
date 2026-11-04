@@ -10,7 +10,8 @@ Images de ma signature Gmail, servies par GitHub Pages : https://leo-var1.github
 
 ## Contenu
 
-- `entete.png` : nom et portrait, fixe, 560 x 200 affiché (fichier en double résolution).
+- `nom.png` : le nom sur une ligne, avec l'accent orange (fichier en double résolution).
+- `photo.png` : le portrait, en colonne à droite.
 - `stage.gif` : la ligne de stage, qui s'écrit une fois puis reste affichée.
 - `picto-*.png` : pictos du téléphone, de LinkedIn et du site.
 - `index.html` : la signature, à copier-coller dans Gmail.
